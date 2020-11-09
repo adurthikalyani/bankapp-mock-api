@@ -66,3 +66,22 @@ node server.js
 http://localhost:5000/api/users
 ```
 
+Output:
+```json
+[
+ {
+ id: 1,
+ name: "Naresh Kumar H",
+ email: "nareshkumarh@live.com",
+ password: "pass123",
+ role: "USER"
+ },
+{
+ id: 2,
+ name: "Tushant",
+ email: "tushant@gmail.com",
+ password: "pass123",
+ role: "ADMIN"
+}
+]
+```
