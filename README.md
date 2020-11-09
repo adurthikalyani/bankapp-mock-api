@@ -61,7 +61,7 @@ server.listen(process.env.PORT || 5000, () => {
 node server.js
 ```
 
-#### Step 6: Test the project
+#### Step 6: Test - List Users API 
 ```
 http://localhost:5000/api/users
 ```
@@ -84,4 +84,20 @@ Output:
  role: "ADMIN"
 }
 ]
+```
+
+#### Step 7: Test - View Users API 
+```
+http://localhost:5000/api/users/1
+```
+
+Output:
+```js
+ {
+ id: 1,
+ name: "Naresh Kumar H",
+ email: "nareshkumarh@live.com",
+ password: "pass123",
+ role: "USER"
+ }
 ```
