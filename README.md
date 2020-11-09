@@ -1,5 +1,12 @@
 # bankapp-mock-api
 
+#### Prerequisite
+* Create a folder
+```
+mkdir bankapp-mock-api
+cd bankapp-mock-api
+```
+
 #### Step 1: Create a node js project
 ```
 npm init -y
