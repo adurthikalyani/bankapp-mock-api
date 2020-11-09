@@ -48,3 +48,14 @@ server.listen(process.env.PORT || 5000, () => {
     ]
 }
 ```
+
+#### Step 5: Run the Node JS Project
+```
+node server.js
+```
+
+#### Step 6: Test the project
+```
+http://localhost:5000/api/users
+```
+
