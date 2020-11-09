@@ -86,7 +86,7 @@ Output:
 ]
 ```
 
-#### Step 7: Test - View Users API 
+#### Step 7: Test - View User Details API 
 ```
 http://localhost:5000/api/users/1
 ```
