@@ -67,7 +67,7 @@ http://localhost:5000/api/users
 ```
 
 Output:
-```json
+```js
 [
  {
  id: 1,
