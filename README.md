@@ -8,9 +8,43 @@ npm init
 #### Step 2: Install json server dependency
 ```
 npm i json-server
+```
 
 #### Step 3: Create server.js
+```js
+const jsonServer = require('json-server')
+
+const server = jsonServer.create()
+
+const router = jsonServer.router('db.json')
+const middlewares = jsonServer.defaults()
+ 
+server.use(middlewares)
+server.use('/api', router)
+server.listen(process.env.PORT || 5000, () => {
+  console.log('JSON Server is running')
+})
+
+
+```
 
 
 #### Step 4: Create db.json
+```js
+{
+    "users": [
+        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
+        "password":"pass123", "role": "USER"
+        },
+        { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
+            "password":"pass123", "role": "ADMIN"
+        }
+    ],
+    "accounts":[
 
+    ],
+    "transactions":[
+
+    ]
+}
+```
