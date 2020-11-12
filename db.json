@@ -1,16 +1,11 @@
 {
-    "users": [
-
-    ],
-    "accounts": [
-
-    ],
-    "transactions": [
-
-    ],
-    "payees":[
-        
+    "products": [
+{"id":1,"title":"Silk Thread Bangles","price":150,"image":"./image/img3.jpg","amount":1,"description":"Handmade Silk Thread Bangles"},
+        {"id":2,"title":"Handmade Thread Bangles","price":150,"image":"./image/img3.jpg","amount":1,"description":"Handmade Silk Thread Bangles"},
+        {"id":3,"title":" Thread Bangles","price":150,"image":"./image/img3.jpg","amount":1,"description":"Handmade Silk Thread Bangles"},
+        {"id":4,"title":"Silk Bangles","price":121,"image":"./image/img2.jpg","amount":1,"description":"Handmade Silk Thread Bangles"},
+        {"id":5,"title":"Bangles","price":130,"image":"./image/img1.jpg","amount":1,"description":"Handmade Silk Thread Bangles"},
+ {"id":6,"title":"Silk Bangles","price":150,"image":"./image/img3.jpg","amount":1,"description":"Handmade Silk Thread Bangles"}
     ]
-    
 
 }
