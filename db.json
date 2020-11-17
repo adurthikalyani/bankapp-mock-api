@@ -3,12 +3,14 @@
             "id": 1,
             "title": "Silk Thread Bangles",
             "price": 130,
+             "category":"Bangles",
             "image": "./image/img1.jpg"
         },
         {
             "id": 2,
             "title": "Silk Thread Bangles",
             "price": 121,
+            "category":"Bangles",
             "image": "./image/img2.jpg"
         },
         {
@@ -21,6 +23,7 @@
             "id": 4,
             "title": "Silk Thread Braclets",
             "price": 60,
+            "category":"Bracelets",
             "image": "./image/img4.jpg"
         },
         {
@@ -41,6 +44,7 @@
             "id": 7,
             "title": "Quilled Earrings",
             "price": 35,
+            "category":"Earrings",
             "image": "./image/img7.jpg"
         },
         {
