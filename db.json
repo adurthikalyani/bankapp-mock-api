@@ -17,6 +17,7 @@
             "id": 3,
             "title": "Silk Thread Bangles",
             "price": 150,
+            "category":"Bangles",
             "image": "./image/img3.jpg"
         },
         {
@@ -30,6 +31,7 @@
             "id": 5,
             "title": "Silk Thread Bangles",
             "price": 250,
+            "category":"Bangles",
             "image": "./image/img5.jpg"
 
         },
@@ -37,6 +39,7 @@
             "id": 6,
             "title": "Silk Thread Bangles",
             "price": 250,
+            "category":"Bangles",
             "image": "./image/img6.jpg"
 
         },
