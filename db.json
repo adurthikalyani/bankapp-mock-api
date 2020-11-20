@@ -5,6 +5,7 @@
             "price": 130,
              "category":"Bangles",
              "range":"medium",
+             "description":"Hanmad Jewellery",
             "image": "./image/img1.jpg"
         },
         {
@@ -13,6 +14,7 @@
             "price": 121,
             "category":"Bangles",
             "range":"medium",
+             "description":"Hanmad Jewellery",
             "image": "./image/img2.jpg"
         },
         {
@@ -21,6 +23,7 @@
             "price": 150,
             "category":"Bangles",
             "range":"medium",
+             "description":"Hanmad Jewellery",
             "image": "./image/img3.jpg"
         },
         {
@@ -29,6 +32,7 @@
             "price": 60,
             "category":"Bracelets",
             "range":"low",
+             "description":"Hanmad Jewellery",
             "image": "./image/img4.jpg"
         },
         {
@@ -37,6 +41,7 @@
             "price": 250,
             "category":"Bangles",
             "range":"high",
+            "description":"Hanmad Jewellery",
             "image": "./image/img5.jpg"
 
         },
@@ -46,6 +51,7 @@
             "price": 250,
             "category":"Bangles",
             "range":"high",
+             "description":"Hanmad Jewellery",
             "image": "./image/img6.jpg"
 
         },
@@ -55,6 +61,7 @@
             "price": 35,
             "category":"Earrings",
             "range":"low",
+             "description":"Hanmad Jewellery",
             "image": "./image/img7.jpg"
         },
         {
@@ -63,6 +70,7 @@
             "price": 90,
              "category":"Bangles",
             "range":"low",
+             "description":"Hanmad Jewellery",
             "image": "./image/img8.jpg"
         },
         {
@@ -71,6 +79,7 @@
             "price": 149,
              "category":"Bangles",
             "range":"medium",
+             "description":"Hanmad Jewellery",
             "image": "./image/img9.jpg"
         },
         {
@@ -79,6 +88,7 @@
             "price": 99,
              "category":"Bangles",
             "range":"low",
+             "description":"Hanmad Jewellery",
             "image": "./image/img10.jpg"
         },
         {
@@ -87,6 +97,7 @@
             "price": 60,
              "category":"Bangles",
             "range":"low",
+             "description":"Hanmad Jewellery",
             "image": "./image/img11.jpg"
         }
     ]
