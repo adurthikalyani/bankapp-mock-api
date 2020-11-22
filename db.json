@@ -100,5 +100,12 @@
              "description":"Hanmad Jewellery",
             "image": "./image/img11.jpg"
         }
+    ],
+"users" :[{
+    "name": "admin,
+    "email": "admin@gmail.com",
+    "password": "pass123",
+    "role":"ADMIN"
+}
     ]
 }
