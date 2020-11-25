@@ -109,12 +109,19 @@
 }
     ],
     "orders":[{
-    "id":1,
-        "items":[],
-        "createdDate": null,
-        "createdBy":"kalyani",
-        "status":"Booked"
-        
-    }
+       "items": [
+      {
+        "id": 1,
+        "name": "Silk Thread Bangles",
+        "price": 130,
+        "no": 1,
+        "createdBy": "kalyani"
+      }
+    ],
+    "createdBy": "kalyani",
+    "createdDate": "2020-11-25T10:46:04.507Z",
+    "id": 1
+  }
+ 
 ]
 }
